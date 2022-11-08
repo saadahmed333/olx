@@ -42,6 +42,8 @@ header .navi .first-navi .motor p {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 5px;
 }
 .navi-2 .second-navi img {
     height: 40px;
